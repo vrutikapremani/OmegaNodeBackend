@@ -1,0 +1,68 @@
+[
+    {
+    "OrderNumber": 1,
+    "Amount": 100,
+    "OrderDate": "1/1/2017",
+    "ShipDate": "2/1/2017"
+    },
+    {
+    "OrderNumber": 2,
+    "Amount": 150,
+    "OrderDate": "2/1/2017",
+    "ShipDate": "2/10/2017"
+    },
+    {
+    "OrderNumber": 3,
+    "Amount": 200,
+    "OrderDate": "3/2/2017",
+    "ShipDate": "3/15/2017"
+    },
+    {
+    "OrderNumber": 4,
+    "Amount": 250,
+    "OrderDate": "4/3/2017",
+    "ShipDate": "4/21/2017"
+    },
+    {
+    "OrderNumber": 5,
+    "Amount": 200,
+    "OrderDate": "1/1/2017",
+    "ShipDate": "3/1/2017"
+    },
+    {
+    "OrderNumber": 6,
+    "Amount": 300,
+    "OrderDate": "10/1/2017",
+    "ShipDate": "10/3/2017"
+    },
+    {
+    "OrderNumber": 7,
+    "Amount": 110,
+    "OrderDate": "1/1/2018",
+    "ShipDate": "2/1/2018"
+    },
+    {
+    "OrderNumber": 8,
+    "Amount": 160,
+    "OrderDate": "2/1/2018",
+    "ShipDate": "2/15/2018"
+    },
+    {
+    "OrderNumber": 9,
+    "Amount": 210,
+    "OrderDate": "3/5/2018",
+    "ShipDate": "3/20/2018"
+    },
+    {
+    "OrderNumber": 10,
+    "Amount": 280,
+    "OrderDate": "4/6/2018",
+    "ShipDate": "4/22/2018"
+    },
+    {
+    "OrderNumber": 11,
+    "Amount": 210,
+    "OrderDate": "1/2/2018",
+    "ShipDate": "3/1/2018"
+    }
+    ]
