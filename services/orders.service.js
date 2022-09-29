@@ -8,9 +8,9 @@ const findOrder = (order) => {
   let retVal = {};
   retVal.status = 200;
   if (data.length) {
-   let order = data.filter((value) => value.OrderNumber === order);
-   if(order.length>0){
-retVal.result = order;
+   let orderData = data.filter((value) => value.OrderNumber === order);
+   if(orderData.length>0){
+retVal.result = orderData;
    } else {
     retVal.result = [];
    }
